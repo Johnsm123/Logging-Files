@@ -1,0 +1,14 @@
+2025-06-26 10:45:53 [main] INFO  com.assignment.LoggingApp - Application started
+2025-06-26 10:45:53 [main] INFO  com.assignment.LoggingApp - Prompting user for input...
+2025-06-26 10:46:02 [main] INFO  com.assignment.LoggingApp - User input received: 10 20 30 40 50
+2025-06-26 10:46:02 [main] INFO  com.assignment.LoggingApp - Sum: 150
+2025-06-26 10:46:02 [main] INFO  com.assignment.LoggingApp - Average: 30.0
+2025-06-26 10:46:02 [main] INFO  com.assignment.LoggingApp - Max: 50
+2025-06-26 10:46:02 [main] INFO  com.assignment.LoggingApp - Application ended
+2025-06-26 11:01:52 [main] INFO  com.assignment.LoggingApp - Application started
+2025-06-26 11:01:52 [main] INFO  com.assignment.LoggingApp - Prompting user for input...
+2025-06-26 11:01:58 [main] INFO  com.assignment.LoggingApp - User input received: 1 2 3 4 5
+2025-06-26 11:01:58 [main] INFO  com.assignment.LoggingApp - Sum: 15
+2025-06-26 11:01:58 [main] INFO  com.assignment.LoggingApp - Average: 3.0
+2025-06-26 11:01:58 [main] INFO  com.assignment.LoggingApp - Max: 5
+2025-06-26 11:01:58 [main] INFO  com.assignment.LoggingApp - Application ended
